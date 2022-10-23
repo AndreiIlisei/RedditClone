@@ -1,6 +1,7 @@
 # Next.js + Tailwind CSS Example
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+I created a reddit clone using NextJs, TypeScript, Tailwind CSS and a using NextAuth to be able to log in with your reddit account.
+It can be seen deployed here: https://reddit-clone-o57vzmyvm-andreiilisei.vercel.app/
 
 ## Deploy your own
 
